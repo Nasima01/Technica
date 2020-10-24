@@ -1,1 +1,3 @@
 # Technica
+## Contributors
+- Zainab Rentia
